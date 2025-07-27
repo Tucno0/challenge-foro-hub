@@ -1,4 +1,6 @@
 package com.jhampier.forohub.domain.curso;
 
-public interface CursoRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CursoRepository extends JpaRepository<Curso, Long> {
 }

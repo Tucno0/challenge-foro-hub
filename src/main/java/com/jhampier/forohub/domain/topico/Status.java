@@ -1,6 +1,6 @@
 package com.jhampier.forohub.domain.topico;
 
-public enum StatusTopico {
+public enum Status {
     ABIERTO,
     CERRADO,
     EN_PROGRESO,
