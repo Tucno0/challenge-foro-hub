@@ -1,4 +1,4 @@
-# 🌐 ForoHub - API REST
+# 🌐 Challenge ForoHub - Alura Latam
 
 Una API REST completa para gestionar un foro en línea donde los usuarios pueden crear tópicos, responder preguntas y participar en discusiones organizadas por cursos.
 
