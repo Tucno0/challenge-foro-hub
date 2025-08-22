@@ -1,4 +1,4 @@
-# 🌐 Challenge ForoHub - Alura Latam
+# 🌐 Challenge ForoHub - Alura Latam G8
 
 Una API REST completa para gestionar un foro en línea donde los usuarios pueden crear tópicos, responder preguntas y participar en discusiones organizadas por cursos.
 
